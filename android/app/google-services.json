@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "478705122584",
+    "project_id": "healthapp-2d178",
+    "storage_bucket": "healthapp-2d178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478705122584:android:7266835f3713fd322f326d",
+        "android_client_info": {
+          "package_name": "com.amincorporation.health_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478705122584-10siq886vu37k158dt6kvh4esibafe44.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amincorporation.health_app",
+            "certificate_hash": "f3fe0bb40704f6c41e419c36e469c8b61bc03e11"
+          }
+        },
+        {
+          "client_id": "478705122584-q33mnjm1i2grvdno8fp7llo5d83qskjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3bMXYIAW69QYq63xxEiU3C-TtSvZSMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478705122584-ds4v1u5c19qo2t0lq2shqdglhi05cjg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
